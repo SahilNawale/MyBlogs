@@ -1,0 +1,10 @@
+.footer{
+    background: #4e4e4f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-weight: 500;
+}
+.btn-group{
+    display: block;
+}
